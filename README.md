@@ -3,7 +3,7 @@ Complete all of the problems in the **LoopFun** class. Descriptions and examples
 
 
 ## 1) One to Ten
-Displays the numbers 1 to 10 in the console.<br>
+Displays the numbers 1 to 10 in a unit test which you will write.<br>
 
 ### Example
 
@@ -19,7 +19,7 @@ Displays the numbers 1 to 10 in the console.<br>
 10<br>
 
 ## 2) Squares
-Displays the square numbers up to 100 in the console.
+Displays the square numbers up to 100 in the unit test which you will write.
 
 ### Example<br>
 1<br>
@@ -59,26 +59,6 @@ Calculates the sum of the number from n to, but not including m, and returns the
 *** Output ***
 
 35
-
-## 5) Are We There Yet
-
-Should prompt the user "Are we there yet?" until the user enters "Yes". When the user enters "Yes", the program should display "Good!" in the console and exit.
-
-### Example
-
-"Are we there yet?"
-
-No
-
-"Are we there yet?"
-
-Spoons
-
-"Are we there yet?"
-
-Yes
-
-Good!
 
 ## 6) Triangle
 
