@@ -1,5 +1,5 @@
 # JavaScript-Loops-Lab
-Complete all of the problems in the **LoopFun** class. Descriptions and examples for each problem can be found below.
+Complete all of the problems in the **Loop** class. Descriptions and examples for each problem can be found below.
 
 
 ## 1) One to Ten
